@@ -2,6 +2,8 @@
 
 [REFrameWork Documentation](https://github.com/UiPath/ReFrameWork/blob/master/Documentation/REFramework%20documentation.pdf)
 
+HR use case a bot that filters employees and then makes an offer letter to accepted employees and then emails it using robotic enterprise framework.
+
 ### REFrameWork Template ###
 **Robotic Enterprise Framework**
 
